@@ -30,5 +30,5 @@ spl-math = { version = "0.1.0", features = ["no-entrypoint"] }
 vipers = "2.0.6"
 
 [dev-dependencies]
-proptest = { version = "1.0" }
+proptest = { version = "1.1" }
 rand = { version = "0.8.5" }
